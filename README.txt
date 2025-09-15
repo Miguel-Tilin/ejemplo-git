@@ -6,3 +6,4 @@ Indicacion
         archivo requirements.txt
             pip install -r requirements.txt
 4. Archivo modificado desde hit-gub
+5.Nueva actualizacion local 
